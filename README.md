@@ -16,3 +16,17 @@ People usually check the manufacture, mile per gallon (mpg), and the engine (hor
 
 ![Module_15_Challenge](Module_15_Challenge.png)
 
+# What metric or metrics are you going to test?
+Mile per gallon (mpg), Safty, horsepower test.
+
+# What is the null hypothesis or alternative hypothesis?
+H0 : There is no difference in frequency distribution between both groups.
+Ha : There is a difference in frequency distribution between both groups.
+
+# What statistical test would you use to test the hypothesis? And why?
+T-Tests of mpg, safty and horsepower test for saftry.
+
+# What data is needed to run the statistical test?
+MechaCar_mpg and their competitor data.
+
+
